@@ -1,0 +1,45 @@
+{
+  "id": "25f57ff3-e7e5-4468-b38d-8962f259b7c6",
+  "name": "SalesPriceExtension",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "fc2b0ea0-a932-47fa-aef2-6235673ee701",
+      "name": "Rayon",
+      "publisher": "Kasper de Bruin",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "df747a69-3d78-4e9d-9074-338fa36ee4ff",
+      "name": "CustomerProject",
+      "publisher": "Kasper de Bruin",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50300,
+      "to": 50349
+    }	
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
